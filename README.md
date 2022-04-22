@@ -6,8 +6,8 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.instagram.com/deepjit_9862/"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/instagram.png?raw=true"</a>&nbsp;&nbsp;
-<a href="https://telegram.dog/sakku_cute"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/Telegram-Logo.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/deepjit_9862/"><img height="30" src="https://raw.githubusercontent.com/sakkucute/sakkucute/master/png/instagram.png?raw=true"</a>&nbsp;&nbsp;
+<a href="https://telegram.dog/sakku_cute"><img height="30" src="https://raw.githubusercontent.com/sakkucute/sakkucute/master/png/Telegram-Logo.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <p align="center">
@@ -28,13 +28,13 @@
 <br
   
 ----
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=deepaiims)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=sakkucute)
   
-<a href="https://github-readme-stats.vercel.app/api?username=deepaiims&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-<a href="https://github-readme-stats.vercel.app/api?username=deepaiims&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+<a href="https://github-readme-stats.vercel.app/api?username=sakkucute&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+<a href="https://github-readme-stats.vercel.app/api?username=sakkucute&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
 
-<a href="https://github-readme-stats.vercel.app/api?username=deepaiims&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&include_all_commits=true&theme=synthwave&cache_seconds=86400" />    
+<a href="https://github-readme-stats.vercel.app/api?username=sakkucute&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=sakkucute&show_icons=true&include_all_commits=true&theme=synthwave&cache_seconds=86400" />    
 </a>
    
 </b></h2>  
@@ -46,8 +46,8 @@
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-OS&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiims&layout=compact&theme=synthwave&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkucute&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakkucute&layout=compact&theme=synthwave&hide=Css" />
 </a>
 </b></h2>  
 </details>
@@ -60,7 +60,7 @@
 <br>
    
    
-![Sakshi's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=deepaiims&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+![Sakshi's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=sakkucute&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 </a>
 </b></h2>  
 </details>
@@ -85,4 +85,4 @@
 
 > Sakshi
 
-⭐ From [Sakshi](https://github.com/deepaiims)
+⭐ From [Sakshi](https://github.com/sakkucute)
